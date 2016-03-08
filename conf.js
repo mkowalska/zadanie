@@ -10,5 +10,5 @@ exports.config = {
    // specs: ['wykres2.js']
     //  specs: ['zoo.js']
     //specs: ['fusion_chart.js']
-    specs: ['1802_tutorial.js']
+    specs: ['demoqa.js']
 }
